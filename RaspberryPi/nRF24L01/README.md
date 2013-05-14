@@ -1,7 +1,7 @@
 nRF24L01
 ========
 
- Code for the nRF24L01 2.4GHz Nordic Wiresles adatper.
+ Code for the nRF24L01 2.4GHz Nordic Wireless adatper.
 Uses bcm2835 library for SPI interface.
 Uses RF24 library configured as submodule to implement
 the network.
