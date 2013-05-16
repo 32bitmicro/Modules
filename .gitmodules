@@ -1,3 +1,9 @@
 [submodule "RaspberryPi/nRF24L01/RF24"]
 	path = RaspberryPi/nRF24L01/RF24
 	url = https://github.com/stanleyseow/RF24.git
+[submodule "RaspberryPi/HD44780/rpi-hd44780"]
+	path = RaspberryPi/HD44780/rpi-hd44780
+	url = https://github.com/vinniefranco/rpi-hd44780.git
+[submodule "RaspberryPi/HD44780/rpilcd"]
+	path = RaspberryPi/HD44780/rpilcd
+	url = https://github.com/sinseman44/rpilcd.git
