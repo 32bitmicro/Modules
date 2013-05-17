@@ -7,3 +7,6 @@
 [submodule "RaspberryPi/HD44780/rpilcd"]
 	path = RaspberryPi/HD44780/rpilcd
 	url = https://github.com/sinseman44/rpilcd.git
+[submodule "RaspberryPi/PCD8544/RPi-Nokia5110"]
+	path = RaspberryPi/PCD8544/RPi-Nokia5110
+	url = https://github.com/shrhdk/RPi-Nokia5110.git
