@@ -10,3 +10,12 @@
 [submodule "RaspberryPi/PCD8544/RPi-Nokia5110"]
 	path = RaspberryPi/PCD8544/RPi-Nokia5110
 	url = https://github.com/shrhdk/RPi-Nokia5110.git
+[submodule "RaspberryPi/nRF24L01/nrf24L01_plus"]
+	path = RaspberryPi/nRF24L01/nrf24L01_plus
+	url = https://github.com/kehribar/nrf24L01_plus.git
+[submodule "RaspberryPi/IR/lirc-indicator"]
+	path = RaspberryPi/IR/lirc-indicator
+	url = https://github.com/davist/lirc-indicator.git
+[submodule "RaspberryPi/SSD1963/ssd1963"]
+	path = RaspberryPi/SSD1963/ssd1963
+	url = https://github.com/fbrausse/ssd1963
